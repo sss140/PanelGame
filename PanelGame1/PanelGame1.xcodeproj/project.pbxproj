@@ -1,0 +1,357 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		529B3CFB21B41D16004B9523 /* Mandala-Flower-Wallpaper-1080x1920.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 529B3CFA21B41D16004B9523 /* Mandala-Flower-Wallpaper-1080x1920.jpg */; };
+		529B3CFF21B41FB4004B9523 /* 20.White-and-Yellow-Flower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 529B3CFC21B41FB4004B9523 /* 20.White-and-Yellow-Flower.jpg */; };
+		529B3D0021B41FB4004B9523 /* Appleロゴワイヤーフレーム波iPhone6の壁紙.png in Resources */ = {isa = PBXBuildFile; fileRef = 529B3CFD21B41FB4004B9523 /* Appleロゴワイヤーフレーム波iPhone6の壁紙.png */; };
+		529B3D0121B41FB4004B9523 /* 39.3D-Sunflower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 529B3CFE21B41FB4004B9523 /* 39.3D-Sunflower.jpg */; };
+		52DBC75321AEC47800481743 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DBC75221AEC47800481743 /* AppDelegate.swift */; };
+		52DBC75521AEC47800481743 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DBC75421AEC47800481743 /* ViewController.swift */; };
+		52DBC75821AEC47800481743 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52DBC75621AEC47800481743 /* Main.storyboard */; };
+		52DBC75A21AEC47A00481743 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52DBC75921AEC47A00481743 /* Assets.xcassets */; };
+		52DBC75D21AEC47A00481743 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52DBC75B21AEC47A00481743 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		529B3CFA21B41D16004B9523 /* Mandala-Flower-Wallpaper-1080x1920.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mandala-Flower-Wallpaper-1080x1920.jpg"; sourceTree = "<group>"; };
+		529B3CFC21B41FB4004B9523 /* 20.White-and-Yellow-Flower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20.White-and-Yellow-Flower.jpg"; sourceTree = "<group>"; };
+		529B3CFD21B41FB4004B9523 /* Appleロゴワイヤーフレーム波iPhone6の壁紙.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Appleロゴワイヤーフレーム波iPhone6の壁紙.png"; sourceTree = "<group>"; };
+		529B3CFE21B41FB4004B9523 /* 39.3D-Sunflower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "39.3D-Sunflower.jpg"; sourceTree = "<group>"; };
+		52DBC74F21AEC47800481743 /* PanelGame1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PanelGame1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52DBC75221AEC47800481743 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		52DBC75421AEC47800481743 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		52DBC75721AEC47800481743 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		52DBC75921AEC47A00481743 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		52DBC75C21AEC47A00481743 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		52DBC75E21AEC47A00481743 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52DBC74C21AEC47800481743 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52DBC74621AEC47800481743 = {
+			isa = PBXGroup;
+			children = (
+				52DBC75121AEC47800481743 /* PanelGame1 */,
+				52DBC75021AEC47800481743 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52DBC75021AEC47800481743 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52DBC74F21AEC47800481743 /* PanelGame1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52DBC75121AEC47800481743 /* PanelGame1 */ = {
+			isa = PBXGroup;
+			children = (
+				52DBC75221AEC47800481743 /* AppDelegate.swift */,
+				52DBC75421AEC47800481743 /* ViewController.swift */,
+				52DBC75621AEC47800481743 /* Main.storyboard */,
+				529B3CFA21B41D16004B9523 /* Mandala-Flower-Wallpaper-1080x1920.jpg */,
+				529B3CFC21B41FB4004B9523 /* 20.White-and-Yellow-Flower.jpg */,
+				529B3CFE21B41FB4004B9523 /* 39.3D-Sunflower.jpg */,
+				529B3CFD21B41FB4004B9523 /* Appleロゴワイヤーフレーム波iPhone6の壁紙.png */,
+				52DBC75921AEC47A00481743 /* Assets.xcassets */,
+				52DBC75B21AEC47A00481743 /* LaunchScreen.storyboard */,
+				52DBC75E21AEC47A00481743 /* Info.plist */,
+			);
+			path = PanelGame1;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52DBC74E21AEC47800481743 /* PanelGame1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52DBC76121AEC47A00481743 /* Build configuration list for PBXNativeTarget "PanelGame1" */;
+			buildPhases = (
+				52DBC74B21AEC47800481743 /* Sources */,
+				52DBC74C21AEC47800481743 /* Frameworks */,
+				52DBC74D21AEC47800481743 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PanelGame1;
+			productName = PanelGame1;
+			productReference = 52DBC74F21AEC47800481743 /* PanelGame1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52DBC74721AEC47800481743 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "佐藤一成";
+				TargetAttributes = {
+					52DBC74E21AEC47800481743 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = 52DBC74A21AEC47800481743 /* Build configuration list for PBXProject "PanelGame1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 52DBC74621AEC47800481743;
+			productRefGroup = 52DBC75021AEC47800481743 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52DBC74E21AEC47800481743 /* PanelGame1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52DBC74D21AEC47800481743 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				529B3D0121B41FB4004B9523 /* 39.3D-Sunflower.jpg in Resources */,
+				529B3CFF21B41FB4004B9523 /* 20.White-and-Yellow-Flower.jpg in Resources */,
+				529B3CFB21B41D16004B9523 /* Mandala-Flower-Wallpaper-1080x1920.jpg in Resources */,
+				52DBC75D21AEC47A00481743 /* LaunchScreen.storyboard in Resources */,
+				52DBC75A21AEC47A00481743 /* Assets.xcassets in Resources */,
+				529B3D0021B41FB4004B9523 /* Appleロゴワイヤーフレーム波iPhone6の壁紙.png in Resources */,
+				52DBC75821AEC47800481743 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52DBC74B21AEC47800481743 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52DBC75521AEC47800481743 /* ViewController.swift in Sources */,
+				52DBC75321AEC47800481743 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52DBC75621AEC47800481743 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52DBC75721AEC47800481743 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		52DBC75B21AEC47A00481743 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52DBC75C21AEC47A00481743 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52DBC75F21AEC47A00481743 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		52DBC76021AEC47A00481743 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52DBC76221AEC47A00481743 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 36H79X5ZFD;
+				INFOPLIST_FILE = PanelGame1/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = KS.PanelGame1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		52DBC76321AEC47A00481743 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 36H79X5ZFD;
+				INFOPLIST_FILE = PanelGame1/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = KS.PanelGame1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52DBC74A21AEC47800481743 /* Build configuration list for PBXProject "PanelGame1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52DBC75F21AEC47A00481743 /* Debug */,
+				52DBC76021AEC47A00481743 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52DBC76121AEC47A00481743 /* Build configuration list for PBXNativeTarget "PanelGame1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52DBC76221AEC47A00481743 /* Debug */,
+				52DBC76321AEC47A00481743 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52DBC74721AEC47800481743 /* Project object */;
+}
